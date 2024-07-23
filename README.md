@@ -1,8 +1,12 @@
 # Space-Missions
   Space Missions Power BI Project
 
-# Description
+# Introduction
   All space missions from 1957 to August 2022, including details on the location, date, and result of the launch, the company responsible, and the name, price, and status of the rocket used for the mission.
+
+# Tools I used:
+--  Power BI
+--  SQL
 
 # Questioins to Answer
 1. How have rocket launches trended across time? Has mission success rate increased?
